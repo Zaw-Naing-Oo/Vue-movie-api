@@ -1,4 +1,4 @@
-# movie-api
+# vue-movie-db-yt
 
 ## Project setup
 ```
